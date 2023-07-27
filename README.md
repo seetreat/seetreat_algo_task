@@ -4,10 +4,11 @@
 2. Write some C++ code which reads and displays the stop sign image in this repo
 3. Add some input checks - for instance: does the file exist? Is the image size acceptable (feel free to define some upper bounds on image size for instance). Is the image grey scale or RGB...etc.
 4. Add some code that finds the location of the stop sign. hint: Keep this simple. We are looking for a simple thresold based approach, not a deep learning implementation!
-5. Write test cases for this code.
-6. Write a 'build_instructions.md' describing how to build and run this code using markdown language
-7. Write a 'test_instructions.md' describing how to run the tests
-8. make a pull request back to the main branch
+5. Add a second plotting function (or update the first) such that the stop sign location is outlined based on the information above. 
+6. Write test cases for this code.
+7. Write a 'build_instructions.md' describing how to build and run this code using markdown language
+8. Write a 'test_instructions.md' describing how to run the tests
+9. make a pull request back to the main branch
 
 ## other points
 
