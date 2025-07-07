@@ -11,7 +11,7 @@ Your task is to write code capable of identifying stop signs in an image. There 
 
 ## sharing the task
 
-Make a new **private** repository and place. When you are ready, please add the following people as colloborators:
+Make a new **private** repository and push your code there. When you are ready, please add the following people as collaborators:
 
 - `brendan-whelan-seetreat`
 - `adam-mylonas-seetreat`
