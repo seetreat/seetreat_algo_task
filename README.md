@@ -1,6 +1,6 @@
 # seetreat_coding_task
 
-Your task is to write a code capable of identifying stop signs in an image. There are three images in the folder called `test_images`, order in order of how challening they are. You can stop after your code works for the first image, or keep going if you're enjoying the challenge!
+Your task is to write code capable of identifying stop signs in an image. There are three images in the folder called `test_images`, ordered by how challenging they are. You can stop after your code works for the first image, or keep going if you're enjoying the challenge!
 
 
 - Solutions are welcome in python or c++
