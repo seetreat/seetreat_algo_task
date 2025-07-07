@@ -14,5 +14,5 @@ Your task is to write code capable of identifying stop signs in an image. There 
 Make a new **private** repository and place. When you are ready, please add the following people as colloborators:
 
 - `brendan-whelan-seetreat`
-- `adamy-mylonas-seetreat`
+- `adam-mylonas-seetreat`
 - `lars-mejnersen-seetreat`
