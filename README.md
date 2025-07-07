@@ -2,7 +2,6 @@
 
 Your task is to write code capable of identifying and counting the number of stop signs in an image. There are three images in the folder called `test_images`, ordered by how challenging they are. You can stop after your code works for the first image, or keep going if you're enjoying the challenge!
 
-
 - Solutions are welcome in Python or C++
 - The use of third-party libraries is heavily encouraged
 - We will be attempting to use this code, so you should write documentation accordingly. 
