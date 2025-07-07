@@ -6,7 +6,7 @@ Your task is to write code capable of identifying stop signs in an image. There 
 - Solutions are welcome in Python or C++
 - The use of third-party libraries is heavily encouraged
 - We will be attempting to use this code, so you should write documentation accordingly. 
-- we are just as interested in how well the code is structured as we are in how well it performs - think about things like "how easy would this be to extend?" "How easy would this be to test?"
+- We are just as interested in how well the code is structured as we are in how well it performs. Consider things like: “How easy would this be to extend?” and “How easy would this be to test?
 - Bonus points for adding at least one test case using an automated test framework.
 
 ## sharing the task
