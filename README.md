@@ -15,4 +15,4 @@ Make a new **private** repository and place. When you are ready, please add the 
 
 - `brendan-whelan-seetreat`
 - `adam-mylonas-seetreat`
-- `lars-mejnersen-seetreat`
+- `lars-mejnertsen-seetreat`
